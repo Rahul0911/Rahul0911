@@ -26,22 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19833
-Fork on GitHub
-5974
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi there 👋, I'm Rahul</h1>
 <h3 align="center">A passionateI am a Machine Learning Engineer based in Toronto. I come with a bachelor's degree in Electronics and Communicaitons Engineering and a recent post graduate degree in Applied AI Solutions Development. frontend developer from India</h3>
 
