@@ -64,6 +64,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul0911&count_private-true&show_icons-true&show=prs_merged,prs_merged_percentage" alt="GitHub Activity" width="100%" /> </p> 
 
 [![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Rahul0911&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/Rahul0911)
-[<img src="https://[your-image-url](https://i.pinimg.com/736x/ad/31/ef/ad31ef23aecdd094a987a0fe286feb25.jpg)/github-logo.png" alt="GitHub Logo" width="30">](https://github.com/Rahul0911)
 
 
