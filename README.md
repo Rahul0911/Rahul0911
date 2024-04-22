@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul0911&count_private-true&show_icons-true" alt="GitHub Activity" width="100%" /> </p>
 
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Rahul0911&show_icons=true&theme=dark"
@@ -29,3 +30,5 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul0911&show_icons=true" />
 </picture>
+
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul0911)](https://github.com/Rahul0911/github-readme-stats)
