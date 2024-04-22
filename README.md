@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **C++, Computer Vision, Deep Learning and various optimization techniques.**
 
-- 🤝 I’m looking for a ** full time opportunity in AI/ML.**
+- 🤝 I’m looking for a **full time opportunity in AI/ML.**
 
 - 👨‍💻 My portfolio: [https://sites.google.com/view/rahul09/](https://sites.google.com/view/rahul09/)
 
