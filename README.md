@@ -63,6 +63,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul0911&count_private-true&show_icons-true&show=prs_merged,prs_merged_percentage" alt="GitHub Activity" width="100%" /> </p> 
 
+<p align="center">
+  
 [![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Rahul0911&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/Rahul0911)
+
+</p>
 
 
