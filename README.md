@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I'm Rahul</h1>
-<h3 align="center">A passionateI am a Machine Learning Engineer based in Toronto. I come with a bachelor's degree in Electronics and Communicaitons Engineering and a recent post graduate degree in Applied AI Solutions Development. frontend developer from India</h3>
+<h3 align="center">I am a Machine Learning Engineer based in Toronto. I come with a bachelor's degree in Electronics and Communicaitons Engineering and a recent post graduate degree in Applied AI Solutions Development. frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul0911&label=Profile%20views&color=0e75b6&style=flat" alt="rahul0911" /> </p>
 
