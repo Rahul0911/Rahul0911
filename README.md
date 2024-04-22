@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **yadavrahul9966@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/view/rahul09/get-in-touch](https://sites.google.com/view/rahul09/get-in-touch)
+- 📄 Know about my experiences: [https://sites.google.com/view/rahul09/get-in-touch](https://sites.google.com/view/rahul09/get-in-touch)
 
-- ⚡ Fun fact **Sometimes I am funny**
+- ⚡ Fun fact: **Sometimes I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
