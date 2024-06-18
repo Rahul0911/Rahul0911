@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences: [https://sites.google.com/view/rahul09/get-in-touch](https://sites.google.com/view/rahul09/get-in-touch)
 
-- ⚡ Fun fact: **Sometimes I am funny**
+- ⚡ Fun fact: **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
