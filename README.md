@@ -3,8 +3,8 @@ I am a Machine Learning Engineer based in Toronto. I come with a bachelor's degr
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Computer Vision Solution for my workplace to enhance productivity.
-- 🌱 I’m currently learning C++, Computer Vision, Deep Learning and various optimization techniques.
+- 🔭 I’m currently working on a Computer Vision Solution and a LLM application for my workplace to enhance productivity and increase customer satisfaction.
+- 🌱 I’m currently learning LlamaIndex, Langchain, Computer Vision, Deep Learning and various optimization techniques.
 - 🤔 I’m looking for a full time opportunity in AI/ML.
 
 Connect With Me 📫
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <h1 align="left">Hi there 👋, I'm Rahul</h1>
 <h3 align="left">I am a Machine Learning Engineer based in Toronto. I come with a bachelor's degree in Electronics and Communicaitons Engineering and a post graduate degree in Applied AI Solutions Development.</h3>
 
-- 🔭 I’m currently working on **a Computer Vision Solution for my workplace to enhance productivity.**
+- 🔭 I’m currently working on **a Computer Vision Solution and a LLM application for my workplace to enhance productivity and increase customer satisfaction.**
 
-- 🌱 I’m currently learning **C++, Computer Vision, Deep Learning and various optimization techniques.**
+- 🌱 I’m currently learning **LlamaIndex, Langchain, Computer Vision, Deep Learning and various optimization techniques.**
 
 - 🤝 I’m looking for a **full time opportunity in AI/ML.**
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **yadavrahul9966@gmail.com**
 
-- 📄 Know about my experiences: [https://sites.google.com/view/rahul09/get-in-touch](https://sites.google.com/view/rahul09/get-in-touch)
+- 📄 Know about my experiences: [https://sites.google.com/view/rahul09/professional-experience](https://sites.google.com/view/rahul09/professional-experience)
 
-- ⚡ Fun fact: **Loading...**
+- ⚡ Fun fact: **I ask a lot of questions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
