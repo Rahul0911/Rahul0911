@@ -3,8 +3,8 @@ I am a Machine Learning Engineer based in Toronto. I come with a bachelor's degr
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Computer Vision Solution and a LLM application for my workplace to enhance productivity and increase customer satisfaction.
-- 🌱 I’m currently learning LlamaIndex, Langchain, Computer Vision, Deep Learning and various optimization techniques.
+- 🔭 I’m currently working on an **Agentic RAG system** and a **Computer Vision Application** to enhance workplace productivity and increase customer satisfaction.
+- 🌱 I’m currently learning LlamaIndex, Langchain, Computer Vision, Gradio and other cool libraries and tools.
 - 🤔 I’m looking for a full time opportunity in AI/ML.
 
 Connect With Me 📫
