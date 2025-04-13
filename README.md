@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **yadavrahul9966@gmail.com**
 
-- 👨‍💻 My LinkedIn: https://www.linkedin.com/in/rahul0911
-
 - ⚡ Fun fact: **I ask a lot of questions**
 
 <h3 align="left">Connect with me:</h3>
