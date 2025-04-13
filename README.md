@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi there 👋, I'm Rahul</h1>
 <h3 align="left">I am a Machine Learning Engineer based in Toronto. I come with a bachelor's degree in Electronics and Communicaitons Engineering and a post graduate degree in Applied AI Solutions Development.</h3>
 
-- 🔭 I’m currently working on **a Computer Vision Solution and a LLM application for my workplace to enhance productivity and increase customer satisfaction.**
+- 🔭 I’m currently working on **an Agentic RAG system and a Computer Vision Application to enhance workplace productivity and increase customer satisfaction.**
 
 - 🌱 I’m currently learning **LlamaIndex, Langchain, Computer Vision, Deep Learning and various optimization techniques.**
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **yadavrahul9966@gmail.com**
 
-- 📄 Know about my experiences: [https://sites.google.com/view/rahul09/professional-experience](https://sites.google.com/view/rahul09/professional-experience)
+- 📄 #Know about my experiences: [https://sites.google.com/view/rahul09/professional-experience](https://sites.google.com/view/rahul09/professional-experience)
 
 - ⚡ Fun fact: **I ask a lot of questions**
 
