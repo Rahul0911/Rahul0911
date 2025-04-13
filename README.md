@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **an Agentic RAG system and a Computer Vision Application to enhance workplace productivity and increase customer satisfaction.**
 
-- 🌱 I’m currently learning **LlamaIndex, Langchain, Computer Vision, Gradio and other cool libraries and tools**
+- 🌱 I’m currently learning **LlamaIndex, Langchain, Computer Vision, Gradio and other cool libraries and tools.**
 
 - 🤝 I’m looking for a **full time opportunity in AI/ML.**
 
 - 📫 How to reach me: **yadavrahul9966@gmail.com**
 
-- ⚡ Fun fact: **I ask a lot of questions**
+- ⚡ Fun fact: **I ask a lot of questions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
