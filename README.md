@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for a **full time opportunity in AI/ML.**
 
-- 👨‍💻 My portfolio: [https://sites.google.com/view/rahul09/](https://sites.google.com/view/rahul09/)
+- 👨‍💻 #My portfolio: [https://sites.google.com/view/rahul09/](https://sites.google.com/view/rahul09/)
 
 - 📫 How to reach me: **yadavrahul9966@gmail.com**
 
