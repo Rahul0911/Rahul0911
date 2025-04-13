@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an **Agentic RAG system** and a **Computer Vision Application** to enhance workplace productivity and increase customer satisfaction.
 - 🌱 I’m currently learning LlamaIndex, Langchain, Computer Vision, Gradio and other cool libraries and tools.
 - 🤔 I’m looking for a full time opportunity in AI/ML.
+- 👨‍💻 My portfolio: [https://sites.google.com/view/rahul09/](https://sites.google.com/view/rahul09/)
+- 📄 Know about my experiences: [https://sites.google.com/view/rahul09/professional-experience](https://sites.google.com/view/rahul09/professional-experience)
 
 Connect With Me 📫
 
@@ -36,11 +38,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for a **full time opportunity in AI/ML.**
 
-- 👨‍💻 '''My portfolio: [https://sites.google.com/view/rahul09/](https://sites.google.com/view/rahul09/)'''
-
 - 📫 How to reach me: **yadavrahul9966@gmail.com**
-
-- 📄 Know about my experiences: [https://sites.google.com/view/rahul09/professional-experience](https://sites.google.com/view/rahul09/professional-experience)
 
 - ⚡ Fun fact: **I ask a lot of questions**
 
