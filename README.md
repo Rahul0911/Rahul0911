@@ -1,77 +1,112 @@
+```
+██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗     
+██╔══██╗██╔══██╗██║  ██║██║   ██║██║     
+██████╔╝███████║███████║██║   ██║██║     
+██╔══██╗██╔══██║██╔══██║██║   ██║██║     
+██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=machine+learning+engineer;building+agentic+rag+systems;computer+vision+%2B+llms;based+in+toronto%2C+canada" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=agentic+ai+engineer;building+shoellama+%E2%80%94+agentic+rag;building+autonomous+shoe+spotter+%E2%80%94+cv;based+in+toronto%2C+canada" alt="Typing SVG" />
   </a>
 </p>
 
 ```
-$ whoami
-██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗
-██╔══██╗██╔══██╗██║  ██║██║   ██║██║
-██████╔╝███████║███████║██║   ██║██║
-██╔══██╗██╔══██║██╔══██║██║   ██║██║
-██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+╭─────────────────────────────────────────────╮
+│  > whoami                                  │
+╰─────────────────────────────────────────────╯
 
+⏺ rahul — agentic AI engineer, toronto
+⏺ turning research papers into things people actually use
 ```
 
 ```diff
-+ building     an agentic RAG system + a computer vision app
-+ learning      llamaindex, langchain, gradio
++ building     ShoeLlama (agentic RAG) + Autonomous Shoe Spotter (CV)
++ learning      LoRA / QLoRA, MCP, LangGraph deep dives
 + open to       full-time opportunities in AI / ML
 ```
 
 ---
 
-**`# languages`**
+**`# programming`**
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39D353)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=39D353)
+![Python](https://img.shields.io/badge/Python-141413?style=for-the-badge&logo=python&logoColor=D97757)
+![NumPy](https://img.shields.io/badge/NumPy-141413?style=for-the-badge&logo=numpy&logoColor=D97757)
+![Pandas](https://img.shields.io/badge/Pandas-141413?style=for-the-badge&logo=pandas&logoColor=D97757)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-141413?style=for-the-badge&logo=tensorflow&logoColor=D97757)
+![Keras](https://img.shields.io/badge/Keras-141413?style=for-the-badge&logo=keras&logoColor=D97757)
+![SQL](https://img.shields.io/badge/SQL-141413?style=for-the-badge&logoColor=D97757)
 
-**`# ml / dl`**
+**`# ai / ml & agentic frameworks`**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39D353)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39D353)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39D353)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39D353)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39D353)
+![LangChain](https://img.shields.io/badge/LangChain-141413?style=for-the-badge&logo=langchain&logoColor=D97757)
+![LangGraph](https://img.shields.io/badge/LangGraph-141413?style=for-the-badge&logoColor=D97757)
+![LangSmith](https://img.shields.io/badge/LangSmith-141413?style=for-the-badge&logoColor=D97757)
+![Qdrant](https://img.shields.io/badge/Qdrant-141413?style=for-the-badge&logoColor=D97757)
+![FAISS](https://img.shields.io/badge/FAISS-141413?style=for-the-badge&logoColor=D97757)
+![MCP](https://img.shields.io/badge/MCP-141413?style=for-the-badge&logoColor=D97757)
+![LoRA/QLoRA](https://img.shields.io/badge/LoRA%2FQLoRA-141413?style=for-the-badge&logoColor=D97757)
 
-**`# cloud & tools`**
+**`# cloud & deployment`**
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39D353)
-![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=39D353)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39D353)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39D353)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=39D353)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39D353)
+![Azure](https://img.shields.io/badge/Azure-141413?style=for-the-badge&logo=microsoftazure&logoColor=D97757)
+![GCP](https://img.shields.io/badge/GCP-141413?style=for-the-badge&logo=googlecloud&logoColor=D97757)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-141413?style=for-the-badge&logo=huggingface&logoColor=D97757)
+![AWS](https://img.shields.io/badge/AWS-141413?style=for-the-badge&logo=amazonaws&logoColor=D97757)
+
+**`# devops & tooling`**
+
+![Git](https://img.shields.io/badge/Git-141413?style=for-the-badge&logo=git&logoColor=D97757)
+![GitHub](https://img.shields.io/badge/GitHub-141413?style=for-the-badge&logo=github&logoColor=D97757)
+![Docker](https://img.shields.io/badge/Docker-141413?style=for-the-badge&logo=docker&logoColor=D97757)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-141413?style=for-the-badge&logo=githubactions&logoColor=D97757)
+![FastAPI](https://img.shields.io/badge/FastAPI-141413?style=for-the-badge&logo=fastapi&logoColor=D97757)
+![Gradio](https://img.shields.io/badge/Gradio-141413?style=for-the-badge&logoColor=D97757)
+
+**`# data & other`**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-141413?style=for-the-badge&logo=snowflake&logoColor=D97757)
+![SQL Server](https://img.shields.io/badge/SQL_Server-141413?style=for-the-badge&logo=microsoftsqlserver&logoColor=D97757)
+![SAP](https://img.shields.io/badge/SAP-141413?style=for-the-badge&logo=sap&logoColor=D97757)
+![VS Code](https://img.shields.io/badge/VS_Code-141413?style=for-the-badge&logo=visualstudiocode&logoColor=D97757)
+![MongoDB](https://img.shields.io/badge/MongoDB-141413?style=for-the-badge&logo=mongodb&logoColor=D97757)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141413?style=for-the-badge&logo=postgresql&logoColor=D97757)
+![PySpark](https://img.shields.io/badge/PySpark-141413?style=for-the-badge&logo=apachespark&logoColor=D97757)
 
 ---
 
-**`$ ls ./projects`**
+```
+╭─────────────────────────────────────────────╮
+│  > ls ./projects                           │
+╰─────────────────────────────────────────────╯
+```
 
-- `$ open` [**ShoeLlama**](https://github.com/Rahul0911/ShoeLlama) — *[one-line description — what it does, what's novel about it]*
-- `$ open` [**Sustainable Predictive Maintenance**](https://github.com/Rahul0911/Sustainable-Predictive-Maintenance) — *[one-line description — dataset, model, result/metric]*
-- `$ open` **Agentic RAG System** — *[add repo link once public]*
-- `$ open` **Computer Vision App** — *[add repo link once public]*
+- ⏺ [**ShoeLlama**](https://github.com/Rahul0911/ShoeLlama) — agentic RAG system — *[one-line description — what it retrieves over, what it's for]*
+- ⏺ [**Autonomous Shoe Spotter**](https://github.com/Rahul0911/Autonomous-Shoe-Spotter) — computer vision inventory spotter — *[one-line description — what it detects, what problem it solves]*
+- ⏺ [**Sustainable Predictive Maintenance**](https://github.com/Rahul0911/Sustainable-Predictive-Maintenance) — *[one-line description — dataset, model, result/metric]*
 
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul0911&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul0911&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul0911&show_icons=true&hide_border=true&bg_color=141413&title_color=D97757&text_color=C9C7BE&icon_color=D97757&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul0911&layout=compact&hide_border=true&bg_color=141413&title_color=D97757&text_color=C9C7BE" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rahul0911&background=0D1117&border=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rahul0911&background=141413&border=141413&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=C9C7BE&currStreakNum=C9C7BE&sideNums=C9C7BE&dates=8B8981" alt="GitHub streak" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/rahul0911"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39D353" alt="LinkedIn" /></a>
-  <a href="mailto:yadavrahul9966@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39D353" alt="Email" /></a>
+  <a href="https://linkedin.com/in/rahul0911"><img src="https://img.shields.io/badge/LinkedIn-141413?style=for-the-badge&logo=linkedin&logoColor=D97757" alt="LinkedIn" /></a>
+  <a href="mailto:yadavrahul9966@gmail.com"><img src="https://img.shields.io/badge/Email-141413?style=for-the-badge&logo=gmail&logoColor=D97757" alt="Email" /></a>
 </p>
 
 ```
-$ exit
+╭─────────────────────────────────────────────────╮
+│  toronto, canada  ·  open to full-time ai/ml  │
+╰─────────────────────────────────────────────────╯
 ```
