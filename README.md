@@ -1,213 +1,74 @@
-<div align="center">
-
-# Rahul Yadav
-
-### Building AI systems that solve real-world operational problems.
-
-*Agentic AI • Computer Vision • Quantum Computing*
-
-<p>
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
-<a href="YOUR_RESUME">Resume</a>
-</p>
-
-</div>
-
----
-
-# Featured Systems
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🧠 ShoeLlama
-
-**Autonomous Retail AI Assistant**
-
-A production-focused RAG system that helps customers discover footwear while giving store associates faster access to product information.
-
-**Highlights**
-
-- LangGraph Agents
-- RAG Pipeline
-- Semantic Search
-- FAISS
-- HuggingFace Embeddings
-- Llama Models
-
-➡️ **Repository**
-
-</td>
-
-<td width="50%">
-
 <p align="center">
-
-<img src="images/shoellama.gif" width="100%">
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=machine+learning+engineer;building+agentic+rag+systems;computer+vision+%2B+llms;based+in+toronto%2C+canada" alt="Typing SVG" />
+  </a>
 </p>
 
-</td>
+```
+$ whoami
+rahul — machine learning engineer
 
-</tr>
-</table>
+$ cat mission.txt
+turning research papers into things people actually use.
+```
 
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-<p align="center">
-
-<img src="images/inventory.gif" width="100%">
-
-</p>
-
-</td>
-
-<td width="50%">
-
-## 👁 Inventory Vision
-
-Built after observing a real retail pain point where misplaced products caused long customer wait times.
-
-Created a computer vision system trained on **10,000+ manually collected images** to help associates instantly locate products inside stockrooms.
-
-**Tech**
-
-- YOLOv8
-- OCR
-- OpenCV
-- Python
-- React Native (WIP)
-
-➡️ **Repository**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-## ⚛ Quantum Computing
-
-Learning and experimenting with modern quantum algorithms.
-
-Current topics
-
-- Dynamic Circuits
-- GHZ States
-- Bridge Gates
-- Error Mitigation
-- IBM Qiskit
-
-➡️ **Repository**
-
-</td>
-
-<td width="50%">
-
-<p align="center">
-
-<img src="images/quantum.png" width="90%">
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Current Focus
-
-```text
-Agentic AI
-██████████████████████░░░░ 85%
-
-Computer Vision
-███████████████████░░░░░░░ 80%
-
-Quantum Computing
-██████████████░░░░░░░░░░░░ 60%
-
-Open Source
-███████████░░░░░░░░░░░░░░░ 45%
+```diff
++ building     an agentic RAG system + a computer vision app
++ learning      llamaindex, langchain, gradio
++ open to       full-time opportunities in AI / ML
 ```
 
 ---
 
-# Architecture Mindset
+**`# languages`**
 
-```text
-                User
-                  │
-                  ▼
-        Agent Orchestrator
-                  │
-      ┌───────────┴───────────┐
-      ▼                       ▼
- Retrieval                Vision Models
-      │                       │
-      ▼                       ▼
- Vector Database         YOLO Detection
-      │                       │
-      └───────────┬───────────┘
-                  ▼
-             Large Language Model
-                  │
-                  ▼
-              Final Response
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39D353)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=39D353)
+
+**`# ml / dl`**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39D353)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39D353)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39D353)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39D353)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39D353)
+
+**`# cloud & tools`**
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39D353)
+![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=39D353)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39D353)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39D353)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=39D353)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39D353)
+
+---
+
+**`$ ls ./projects`**
+
+- `$ open` [**ShoeLlama**](https://github.com/Rahul0911/ShoeLlama) — *[one-line description — what it does, what's novel about it]*
+- `$ open` [**Sustainable Predictive Maintenance**](https://github.com/Rahul0911/Sustainable-Predictive-Maintenance) — *[one-line description — dataset, model, result/metric]*
+- `$ open` **Agentic RAG System** — *[add repo link once public]*
+- `$ open` **Computer Vision App** — *[add repo link once public]*
+
+---
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul0911&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul0911&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rahul0911&background=0D1117&border=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahul0911"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39D353" alt="LinkedIn" /></a>
+  <a href="mailto:yadavrahul9966@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39D353" alt="Email" /></a>
+</p>
+
 ```
-
----
-
-# Tech Stack
-
-| AI | Backend | Vision | Cloud |
-|----|---------|--------|-------|
-| LangChain | FastAPI | YOLOv8 | GCP |
-| LangGraph | Python | OpenCV | Docker |
-| Llama | REST APIs | OCR | HuggingFace |
-| HuggingFace | Git | CV Pipelines | GitHub Actions |
-
----
-
-# GitHub Activity
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul0911&show_icons=true&hide_border=true&theme=transparent">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul0911&layout=compact&hide_border=true&theme=transparent">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul0911&theme=github-compact">
-
-</p>
-
----
-
-# Currently Building
-
-- Autonomous Retail Agents
-- Multi-Agent AI Workflows
-- Inventory Vision Platform
-
-
+$ exit
+```
