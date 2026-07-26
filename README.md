@@ -19,7 +19,7 @@
 ╰─────────────────────────────────────────────╯
 
 ⏺ rahul — agentic AI engineer, toronto
-⏺ turning research papers into things people actually use
+⏺ Building smart solutions out of pain points around me 
 ```
 
 ```diff
