@@ -209,8 +209,5 @@ Open Source
 - Autonomous Retail Agents
 - Multi-Agent AI Workflows
 - Inventory Vision Platform
-- Quantum Computing Research
 
----
 
-> *"I enjoy building AI systems that automate work—not just generate text."*
