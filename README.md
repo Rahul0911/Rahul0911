@@ -8,6 +8,10 @@
 ```
 
 <p align="center">
+  <img src="assets/name-banner.svg" alt="RAHUL" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=agentic+ai+engineer;building+shoellama+%E2%80%94+agentic+rag;building+autonomous+shoe+spotter+%E2%80%94+cv;based+in+toronto%2C+canada" alt="Typing SVG" />
   </a>
@@ -18,14 +22,15 @@
 │  > whoami                                  │
 ╰─────────────────────────────────────────────╯
 
-⏺ rahul — agentic AI engineer, toronto
-⏺ Building smart solutions out of pain points around me 
+>_ rahul — agentic AI engineer, toronto
+>_ if it's annoying, i've probably already automated it
 ```
 
-```diff
-+ building     ShoeLlama (agentic RAG) + Autonomous Shoe Spotter (CV)
-+ learning      LoRA / QLoRA, MCP, LangGraph deep dives
-+ open to       full-time opportunities in AI / ML
+```
+>_ building       ShoeLlama (agentic RAG) + Autonomous Shoe Spotter (CV)
+>_ learning       MCP, LangGraph deep dives, agent evaluation
+>_ side quest     Qiskit (do i understand it? too early to say)
+>_ open to        full-time opportunities in AI / ML
 ```
 
 ---
@@ -83,19 +88,19 @@
 ╰─────────────────────────────────────────────╯
 ```
 
-- ⏺ [**ShoeLlama**](https://github.com/Rahul0911/ShoeLlama) — agentic RAG system — *[one-line description — what it retrieves over, what it's for]*
-- ⏺ [**Autonomous Shoe Spotter**](https://github.com/Rahul0911/Autonomous-Shoe-Spotter) — computer vision inventory spotter — *[one-line description — what it detects, what problem it solves]*
-- ⏺ [**Sustainable Predictive Maintenance**](https://github.com/Rahul0911/Sustainable-Predictive-Maintenance) — *[one-line description — dataset, model, result/metric]*
+- >_ [**ShoeLlama**](https://github.com/Rahul0911/ShoeLlama) — agentic RAG system — Agentic RAG over 1,600+ products with hybrid search, reranking & memory — because product knowledge shouldn't live in one associate's head
+- >_ [**Autonomous Shoe Spotter**](https://github.com/Rahul0911/Autonomous-Shoe-Spotter) — computer vision inventory spotter — YOLO model trained on 10K+ self-labeled images to find misplaced stock before a customer notices it's missing
+- >_ [**Sustainable Predictive Maintenance**](https://github.com/Rahul0911/Sustainable-Predictive-Maintenance) — deep learning model predicting equipment failure types at 86% accuracy, deployed via FastAPI + Docker on GCP & Hugging Face
 
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul0911&show_icons=true&hide_border=true&bg_color=141413&title_color=D97757&text_color=C9C7BE&icon_color=D97757&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul0911&layout=compact&hide_border=true&bg_color=141413&title_color=D97757&text_color=C9C7BE" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul0911&show_icons=true&hide_border=true&bg_color=141413&title_color=D97757&text_color=D97757&icon_color=D97757&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul0911&layout=compact&hide_border=true&bg_color=141413&title_color=D97757&text_color=D97757" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rahul0911&background=141413&border=141413&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=C9C7BE&currStreakNum=C9C7BE&sideNums=C9C7BE&dates=8B8981" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rahul0911&background=141413&border=141413&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=D97757&currStreakNum=D97757&sideNums=D97757&dates=D97757" alt="GitHub streak" />
 </p>
 
 ---
