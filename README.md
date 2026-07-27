@@ -7,6 +7,15 @@
                                                   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
                                                   ```
 
+                                                  <svg width="659" height="199" viewBox="0 0 659 199" xmlns="http://www.w3.org/2000/svg">
+<text x="10" y="36.0" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#D97757" xml:space="preserve">██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗     </text>
+<text x="10" y="65.9" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#D97757" xml:space="preserve">██╔══██╗██╔══██╗██║  ██║██║   ██║██║     </text>
+<text x="10" y="95.8" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#D97757" xml:space="preserve">██████╔╝███████║███████║██║   ██║██║     </text>
+<text x="10" y="125.7" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#D97757" xml:space="preserve">██╔══██╗██╔══██║██╔══██║██║   ██║██║     </text>
+<text x="10" y="155.6" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#D97757" xml:space="preserve">██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗</text>
+<text x="10" y="185.5" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#D97757" xml:space="preserve">╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝</text>
+</svg>
+
 <p align="center">
   <img src="assets/name-banner.svg" alt="RAHUL" />
 </p>
