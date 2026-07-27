@@ -14,11 +14,11 @@
 ╰─────────────────────────────────────────────╯
 
 >_ rahul — agentic AI engineer, toronto
->_ if it's annoying, i've probably already automated it
+>_ if it's annoying, i'm probably trying to automate it.
 ```
 
 ```
->_ building       ShoeLlama (agentic RAG) + Autonomous Shoe Spotter (CV)
+>_ building       ShoeLlama (agentic RAG) + Autonomous Shoe Spotter (Computer Vision)
 >_ learning       MCP, LangGraph deep dives, agent evaluation
 >_ side quest     Qiskit (do i understand it? too early to say)
 >_ open to        full-time opportunities in AI / ML
