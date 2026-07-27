@@ -1,22 +1,10 @@
-                                                ```
-                                                ██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗     
-                                                ██╔══██╗██╔══██╗██║  ██║██║   ██║██║     
-                                                ██████╔╝███████║███████║██║   ██║██║     
-                                                ██╔══██╗██╔══██║██╔══██║██║   ██║██║     
-                                                ██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
-                                                ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-                                                ```
-
-                                            
-
-
 <p align="center">
   <img src="assets/name-banner.svg" alt="RAHUL" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=agentic+ai+engineer;building+shoellama+%E2%80%94+agentic+rag;building+autonomous+shoe+spotter+%E2%80%94+cv;based+in+toronto%2C+canada" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer;Building+ShoeLlama+%E2%80%94+Agentic+RAG;Building+Autonomous+Shoe+Spotter+%E2%80%94+CV;Based+in+Toronto%2C+Canada" alt="Typing SVG" />
   </a>
 </p>
 
@@ -94,6 +82,12 @@
 - >_ [**ShoeLlama**](https://github.com/Rahul0911/ShoeLlama) — agentic RAG system — Agentic RAG over 1,600+ products with hybrid search, reranking & memory — because product knowledge shouldn't live in one associate's head
 - >_ [**Autonomous Shoe Spotter**](https://github.com/Rahul0911/Autonomous-Shoe-Spotter) — computer vision inventory spotter — YOLO model trained on 10K+ self-labeled images to find misplaced stock before a customer notices it's missing
 - >_ [**Sustainable Predictive Maintenance**](https://github.com/Rahul0911/Sustainable-Predictive-Maintenance) — deep learning model predicting equipment failure types at 86% accuracy, deployed via FastAPI + Docker on GCP & Hugging Face
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rahul0911/Rahul0911/output/snake.svg" alt="Contribution snake" />
+</p>
 
 ---
 
